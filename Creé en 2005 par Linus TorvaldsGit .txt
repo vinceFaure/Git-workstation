@@ -1,0 +1,4 @@
+Creé en 2005 par Linus TorvaldsGit est unloiciel de gestion de versions décentralisé.
+CAD chaque développeur peut travailler de maniére desynchronisée puis soumettre et echanger ses traveaux avec d'autres utilisateurs.
+Multiplateforme libre et gratuit il est le plus populaire parmis ce type de logiciel.
+ Creé en 2005 par Linus Torvalds
